@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maya!
-- 👀 I’m interested in medicine, biotechnology and artificial intelligence.
+- 👀 I’m interested in medicine, biotechnology and AI.
 - 🌱 I’m currently learning medicine and python.
 - 📫 How to reach me:
 - Twitter: @maya97p
